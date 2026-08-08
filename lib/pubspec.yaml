@@ -1,0 +1,8 @@
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  # المكتبات الخاصة بتطبيق Vani
+  supabase_flutter: ^2.3.0
+  mailer: ^6.1.0
+  livekit_client: ^2.1.0

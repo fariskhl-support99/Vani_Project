@@ -1,0 +1,8 @@
+<key>NSCameraUsageDescription</key>
+<string>يحتاج تطبيق Vani للوصول إلى الكاميرا لإجراء المكالمات المرئية وإلتقاط الصور.</string>
+
+<key>NSMicrophoneUsageDescription</key>
+<string>يحتاج تطبيق Vani للوصول إلى الميكروفون لإرسال الرسائل الصوتية وإجراء المكالمات.</string>
+
+<key>NSPhotoLibraryUsageDescription</key>
+<string>يحتاج تطبيق Vani للوصول إلى المعرض لإرسال الصور والملفات.</string>
