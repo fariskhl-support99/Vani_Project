@@ -52,7 +52,7 @@ class VaniStatusBarWidget extends StatelessWidget {
                   Text(
                     isMe ? "حالتك" : "جهة $index",
                     style: const TextStyle(fontSize: 11),
-                    overflow: TextSpanOverflow.ellipsis,
+                    overflow: TextOverflow.ellipsis,
                   ),
                 ],
               ),
